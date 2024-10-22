@@ -1,8 +1,0 @@
-PENTRU INCARCARE DE PE LOCAL PE GLOBAL
-
-0. -> git pull //pentru cand a modificat cineva ceva si nu avem varianta updated
-1. -> git status
-2. -> git add .
-3. -> //pentru a scrie mesaj//     git commit -m "TXT"
-4. ->git push 
-5. MS -> Motor speed
